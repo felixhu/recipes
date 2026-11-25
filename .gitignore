@@ -18,3 +18,5 @@ CLAUDE.md
 HANDOFF.md
 PLAN.md
 index/
+.vercel
+.env*
