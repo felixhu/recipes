@@ -1,0 +1,20 @@
+tools/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+tools/.host_times.json
+.env
+.env.*
+.vercel/
+
+# Private local recipe archive & notes (never push to git)
+library/
+inbox/
+notes/
+lists/
+recipes.zip
+sources.yaml
+CLAUDE.md
+HANDOFF.md
+PLAN.md
+index/
